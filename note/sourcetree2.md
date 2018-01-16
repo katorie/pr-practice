@@ -1,0 +1,2 @@
+sourcetreeからcommit, push, PRしてみたけど結局失敗
+色々説明受けたことが理解できてるか確認で、もう一回sourcetreeからcommitしてrebaseもしてpush, PRしてみる
